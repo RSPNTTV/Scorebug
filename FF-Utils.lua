@@ -10,8 +10,8 @@ function getTeam(teamName)
 					Light = "#FF832B"
 				},
 				Alternate = {
-					Main = "#292929",
-					Light = "#4C4C4C"
+					Main = "#2B2B2B",
+					Light = "A8A8A8"
 				},
 				Endzone = "#fb4f14"
 			},
@@ -64,8 +64,8 @@ function getTeam(teamName)
 					Light = "#2E1594"
 				},
 				Alternate = {
-					Main = "#292929",
-					Light = "#404040"
+					Main = "#2B2B2B",
+					Light = "A8A8A8"
 				},
 				Endzone = "#422de2"
 			},
@@ -244,8 +244,8 @@ function getTeam(teamName)
 					Light = "#0098B0"
 				},
 				Alternate = {
-					Main = "#292929",
-					Light = "#404040"
+					Main = "#2B2B2B",
+					Light = "A8A8A8"
 				},
 				Endzone = "#0094ab"
 			},
@@ -370,8 +370,8 @@ function getTeam(teamName)
 					Light = "#D43157"
 				},
 				Alternate = {
-					Main = "#292929",
-					Light = "#404040"
+					Main = "#2B2B2B",
+					Light = "A8A8A8"
 				},
 				Endzone = "#111111"
 			},
@@ -496,8 +496,8 @@ function getTeam(teamName)
 					Light = "#D4203E"
 				},
 				Alternate = {
-					Main = "#292929",
-					Light = "#404040"
+					Main = "#2B2B2B",
+					Light = "A8A8A8"
 				},
 				Endzone = "#000000"
 			},
@@ -514,8 +514,8 @@ function getTeam(teamName)
 					Light = "#F2D8A2"
 				},
 				Alternate = {
-					Main = "#292929",
-					Light = "#404040"
+					Main = "#2B2B2B",
+					Light = "A8A8A8"
 				},
 				Endzone = "#e8cf9c"
 			},
