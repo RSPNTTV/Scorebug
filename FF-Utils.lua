@@ -64,8 +64,8 @@ function getTeam(teamName)
 					Light = "#2E1594"
 				},
 				Alternate = {
-					Main = "#2B2B2B",
-					Light = "A8A8A8"
+					Main = "#292929",
+					Light = "404040"
 				},
 				Endzone = "#422de2"
 			},
