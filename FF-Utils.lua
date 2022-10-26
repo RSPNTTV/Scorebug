@@ -528,7 +528,7 @@ function getTeam(teamName)
 			EndzoneDecal = "rbxassetid://8380329001",
 			Colors = {
 				Normal = {
-					Main = "#D50A0A",
+					Main = "#A6192E",
 					Light = "#FF3131"
 				},
 				Alternate = {
